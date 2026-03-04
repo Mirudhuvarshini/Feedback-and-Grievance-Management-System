@@ -53,9 +53,8 @@ Resolve IT is a full-stack Student Feedback and Grievance Management System desi
 
 ---
 
-## 💼 Business Impact
+## Business Impact
 - Improves institutional transparency
 - Reduces complaint resolution time
 - Enables data-driven administrative decisions
 - Enhances student trust and engagement
->>>>>>> 41101688d65a0a22bb64bbb16ffca36d41cd58de
